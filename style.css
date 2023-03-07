@@ -1,0 +1,21 @@
+.heading
+{
+    box-shadow: 10px;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+.song_name
+{
+    box-shadow: 10px;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+canvas
+{
+    border: 10px;
+    box-shadow: 10px;
+    padding: 0px;
+    margin: 0px;
+}
